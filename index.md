@@ -8,7 +8,7 @@ The data used for the tutorials is from the study of [Lu et al. 2010](https://ww
 
 Day 1: Pathway Drawing
 -----------------------
-* Introuction to Pathways and Wikipathways
+* Introduction to Pathways and Wikipathways
 * Draw your own pathway tutorial
 
 Day 2: Data Pre-processing, Pathway Analysis, and Gene Ontology Analysis
