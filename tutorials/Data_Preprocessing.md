@@ -38,17 +38,17 @@ The raw microarray data (Affymetrix CEL files) will be analysed using [ArrayAnal
 of the workflow can be found under documentation. Please have a look at this to get a better idea of how the workflow works. At 
 ArrayAnalysis under Quick Links on the left, click Affymetrix QC & pre-processing, bringing you to the screen below.
 
-![Figure 2A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2A_PP.png)
+![Figure 2A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure_2A_PP.png?raw=true)
 
 Click on “Choose File” and select the zip file of data titled GSE19804-samples10 and then click Run affyQC. The following screen 
 will appear. 
 
-![Figure 2B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2B_PP.png)
+![Figure 2B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure_2B_PP.png?raw=true)
 
 This is where you define the experimental groups. We have prepared a description.txt file (found in the drive) that you can upload 
 with the Choose File button. Then click next which will bring you to the following screen.
 
-![Figure 2C](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2C_PP.png)
+![Figure 2C](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure_2C_PP.png?raw=true)
 
 Fill in your email address and take a look at the different options. We will leave all but one of the default selections. Under the 
 Pre-processing: normalization method and annotation section, change the normalization method from GC-RMA to RMA and click Run. This 
@@ -95,14 +95,14 @@ In addition to the quality control and normalisation, ArrayAnalysis.org can stat
 groups. The normalised data obtained after running the quality control in ArrayAnalysis.org is used as an input for the statistical 
 analysis. After your normalisation is complete, ArrayAnalysis will bring you to the following screen. 
 
-![Figure 3A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure3A_PP.png)
+![Figure 3A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure_3A_PP.png?raw=true)
 
 Your normalization has been completed successfully, and you can continue to the statistical analysis by clicking Run Stat under the 
 Results. It will bring you to the following screen where the groups are defined. Click Next. This will bring you to a screen with 
 statistical analysis options. We can leave the defaults, enter your email address, and click Run. Then your statistical analysis will 
 begin.
 
-![Figure 3B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure3B_PP.png)
+![Figure 3B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure_3B_PP.png?raw=true)
 
 Statistical analysis has been performed to compare the two groups of the dataset (Lung cancer versus normal). 
 
