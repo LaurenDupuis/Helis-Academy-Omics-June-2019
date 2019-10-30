@@ -72,12 +72,18 @@ Follow the instruction to create a basic visualization:
 2.	Create a new visualization named “basic visualization”
 
 ![Figure 3A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_1_PA_.png?raw=true)
+
+
 3.	Select “Expression as color” and “Text label”. 
 4.	In “Expression as color” select “Basic”.
 5.	Check the checkbox before “logFC” and define a new color set.
+
 ![Figure 3B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_2_PA_.png?raw=true)
+
 6.	Select “Gradient” and define a gradient from -1 over 0 to 1 (blue - white - red) → Click OK.
+
 ![Figure 3C](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_3_PA_.png?raw=true)
+
 
 > **Question 3A.** Make a screenshot of the pathway. *What do the colors in the pathway mean biologically?* (Hint: Check the “Legend” tab 
 > on the right side). 
