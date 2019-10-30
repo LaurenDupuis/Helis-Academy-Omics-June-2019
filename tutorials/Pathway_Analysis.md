@@ -42,15 +42,15 @@ Steps data import:
 should be filled in automatically (see Figure 2a).
 3.	In the next dialog, make sure the correct separators are used. You should see the different columns in the preview (see Figure 2b).
 
-![Figure 2A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2A_PA.png)
-![Figure 2B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2B_PA.png)
+![Figure 2A and 2B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2A_2B_PA.png)
+
 
 4.	Important: in the next step you need to select the column that contains the gene identifier and the database (system code) for 
 the identifier. Select the database you chose in question 2A (Note: if the database is wrong your identifiers will not be recognized 
 correctly), see Figure 2c. 
 5.	Now the data is imported (see Figure 2d). Before clicking “Finish” answer the questions 2B and 2C below:
 
-![Figure 2C and 2D](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2C_2D_PA.png)
+![Figure 2C and 2D](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Figure2C_2D_PA_.png)
 
 > **Question 2B.** How many rows were successfully imported?
 
@@ -71,13 +71,13 @@ Follow the instruction to create a basic visualization:
 1.	Go to Data → Visualization Options
 2.	Create a new visualization named “basic visualization”
 
-![ ](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_1_PA.png)
+![Figure 3A](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_1_PA_.png)
 3.	Select “Expression as color” and “Text label”. 
 4.	In “Expression as color” select “Basic”.
 5.	Check the checkbox before “logFC” and define a new color set.
-![ ](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_2_PA.png)
+![Figure 3B](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_2_PA_.png)
 6.	Select “Gradient” and define a gradient from -1 over 0 to 1 (blue - white - red) → Click OK.
-![ ](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_3_PA.png)
+![Figure 3C](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Data_Vis_3_PA_.png)
 
 > **Question 3A.** Make a screenshot of the pathway. *What do the colors in the pathway mean biologically?* (Hint: Check the “Legend” tab 
 > on the right side). 
@@ -96,7 +96,7 @@ PathVisio also allows users to visualize multiple data columns together. For tha
 7.	Check the checkbox before “P.Value” and define a new color set, see Figure 3b.
 8.	At the bottom, click on “Add Rule”. Go to the text field next to “Rule Logic” and specify the following criteria: [P.Value] < 0.05. Then click on color and select a light green. Click OK and OK, see Figure 3c. 
 
-![ ](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Fig4.png)
+![Figure 4](https://github.com/LaurenDupuis/Helis-Academy-Omics-June-2019/blob/master/images/Fig4.png)
 
 > **Question 3A.** Make a screenshot of the pathway. What do the colors in the different columns on the data nodes in the pathway mean 
 > biologically? (Hint: Check the “Legend” tab on the right side). 
