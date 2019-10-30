@@ -27,4 +27,5 @@ Day 3: Network Analysis
 ------------------------
 * Network Analysis
    * Lecture
-   * Tutorial
+   * [Tutorial](tutorials/Network_Analysis.md)
+
