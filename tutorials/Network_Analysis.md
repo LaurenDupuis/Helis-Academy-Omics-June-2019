@@ -1,6 +1,6 @@
 # Network Analysis
 # Using network analysis to study the molecular and regulatory mechanisms involved in lung cancer
-==================================================================================================
+===============================================================================
 ## June 13, 2019
 ## Practical prepared by: Dr. Martina Summer-Kutmon and Dr. Lauren Dupuis
 ---------------------------------------------------------------------------------------------------
@@ -46,6 +46,8 @@ for lung cancer treatment.  The identifiers and names of the drugs can be found 
 > **Question 1B** How many drugs were added to the network?
 
 > **Question 1C**	Which genes are targeted by many drugs?
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 ### Assignment 2: Build network for up-regulated lung cancer genes
