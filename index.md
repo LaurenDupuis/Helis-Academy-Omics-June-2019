@@ -18,7 +18,7 @@ Day 2: Data Pre-processing, Pathway Analysis, and Gene Ontology Analysis
    * Tutorial
 * Pathway Analysis
    * Lecture
-   * Tutorial
+   * [Tutorial](tutorials/Pathway_Analysis.md)
 * Gene Ontology Analysis
    * Lecture
    * Tutorial
